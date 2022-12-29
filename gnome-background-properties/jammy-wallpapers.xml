@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+ <wallpaper deleted="false">
+   <name>Wolves Community Wallpapers</name>
+   <filename>/usr/share/backgrounds/contest/jammy.xml</filename>
+   <options>zoom</options>
+ </wallpaper>
+ <wallpaper>
+     <name>Default</name>
+     <name xml:lang="de">Default</name>
+     <name xml:lang="en_GB">Default</name>
+     <name xml:lang="fr">Default</name>
+     <name xml:lang="hr">Default</name>
+     <name xml:lang="tr">Öntanımlı</name>
+     <filename>/usr/share/backgrounds/default.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+<wallpaper>
+      <name>Default-2</name>
+     <name xml:lang="de">Default-2</name>
+     <name xml:lang="en_GB">Default-2</name>
+     <name xml:lang="fr">Default-2</name>
+     <name xml:lang="hr">Default-2</name>
+     <name xml:lang="tr">Öntanımlı-2</name>
+     <filename>/usr/share/backgrounds/default-2.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+<wallpaper>
+     <name>Wallpaper-3</name>
+     <name xml:lang="de">3</name>
+     <name xml:lang="en_GB">3</name>
+     <name xml:lang="fr">3</name>
+     <name xml:lang="hr">3</name>
+     <filename>/usr/share/backgrounds/wallpaper-3.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-4</name>
+     <name xml:lang="de">4</name>
+     <name xml:lang="en_GB">4</name>
+     <name xml:lang="fr">4</name>
+     <name xml:lang="hr">4</name>
+     <filename>/usr/share/backgrounds/wallpaper-4.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-1</name>
+     <name xml:lang="en_GB">1</name>
+     <name xml:lang="hr">1</name>
+     <filename>/usr/share/backgrounds/wallpaper-1.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-5</name>
+     <name xml:lang="de">5</name>
+     <name xml:lang="en_GB">5</name>
+     <name xml:lang="fr">5</name>
+     <name xml:lang="hr">5</name>
+     <filename>/usr/share/backgrounds/wallpaper-5.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-6</name>
+     <name xml:lang="de">6</name>
+     <name xml:lang="en_GB">6</name>
+     <name xml:lang="hr">6</name>
+     <filename>/usr/share/backgrounds/Wallpaper-6.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-7</name>
+     <name xml:lang="de">7</name>
+     <name xml:lang="en_GB">7</name>
+     <name xml:lang="hr">7</name>
+     <filename>/usr/share/backgrounds/wallpaper-7.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-8</name>
+     <name xml:lang="en_GB">8</name>
+     <name xml:lang="fr">8</name>
+     <name xml:lang="hr">8</name>
+     <filename>/usr/share/backgrounds/wallpaper-8.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-9</name>
+     <name xml:lang="de">9</name>
+     <name xml:lang="en_GB">9</name>
+     <name xml:lang="hr">9</name>
+     <filename>/usr/share/backgrounds/Wallpaper-9.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-10</name>
+     <name xml:lang="de">10</name>
+     <name xml:lang="en_GB">10</name>
+     <name xml:lang="fr">10</name>
+     <name xml:lang="hr">10</name>
+     <filename>/usr/share/backgrounds/Wallpaper-10.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-11</name>
+     <name xml:lang="de">11</name>
+     <name xml:lang="en_GB">11</name>
+     <name xml:lang="fr">11</name>
+     <name xml:lang="hr">11</name>
+     <filename>/usr/share/backgrounds/Wallpaper11.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-12</name>
+     <name xml:lang="en_GB">12</name>
+     <name xml:lang="fr">12</name>
+     <name xml:lang="hr">12</name>
+     <filename>/usr/share/backgrounds/wallpaper-12.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-13</name>
+     <name xml:lang="en_GB">13</name>
+     <name xml:lang="fr">13</name>
+     <name xml:lang="hr">13</name>
+     <filename>/usr/share/backgrounds/wallpaper-13.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-14</name>
+     <name xml:lang="en_GB">14</name>
+     <name xml:lang="fr">14</name>
+     <name xml:lang="hr">14</name>
+     <filename>/usr/share/backgrounds/wallpaper-14.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-Wolf</name>
+     <name xml:lang="en_GB">W1</name>
+     <name xml:lang="fr">W1</name>
+     <name xml:lang="hr">W1</name>
+     <filename>/usr/share/backgrounds/wallpaper-wolf.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <name>Wallpaper-Wolf-2</name>
+     <name xml:lang="en_GB">W2</name>
+     <name xml:lang="fr">W2</name>
+     <name xml:lang="hr">W2</name>
+     <filename>/usr/share/backgrounds/wallpaper-wolf-2.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+</wallpapers>
