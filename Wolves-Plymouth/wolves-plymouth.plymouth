@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Wolves-Plymouth
+Description=Wolves plymouth based Apple Mac Plymouth theme by - Nilotpal Biswas J
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Wolves-PLymouth
+ScriptFile=/usr/share/plymouth/themes/Wolves-Plymouth/wolves-plymouth.script
